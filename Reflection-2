@@ -1,0 +1,30 @@
+Topic – Hibernate Object Relational Mapping
+
+Sr.No	Name of database or search engine	Number of hits received by your search	Number of articles that were retrieved (where they full text and peer-reviewed)	The # of the first 10 hits that were relevant and/or accurate to your search	List the article you found most helpful to your research query Please list the title and author.
+ 1.	IEEE Xplore	256	10	5	Title - Hibernate ORM query simplification using hibernate criteria extension(HCE)
+Author – Kisman and Sani M. Isa
+2.	Google Scholar	87,400	12	3	Object/relational mapping 2008: hibernate and the entity data model
+Author - Elizabeth J. O'Neil
+
+
+3.	Web of science 	26	9	3	Natural Language Interface to Relational Database through ORM
+Author- Alghamandi, Owda, Crockett
+
+Analysis
+Software development time is a critical issue in software development process, hibernate has been widely used to increase development speed. It is used in database manipulation layer. This research develops a library to simplify hibernate criteria. The library that is called as Hibernate Criteria Extension (HCE) provides API functions to simplify code and easily to be used. Query associations can be defined by using dot. The library will automatically detect the join association(s) based on mapping in entity class. It can also be used in restriction and order. HCE is a hibernate wrapper library. The configuration is based on hibernate configuration. This library can be easily used by the developers whom familiar with hibernate usage [1]. 
+The process of research and development of data report system for financial management is described in this paper. It chooses J2EE as platform, Jasper Report as development tools, for the realization of the report system with hibernate to meet the requirement of users. In the process of project development, we pay more attention to the study of the mechanism of the report generation by Jasper Report. The advantages of object-oriented (O/R) database are described, as well as the superiority of Hibernate, finally, we design the layout of the database with I Report. Traditional relational database is transformed into durable objects with the O/R mapping tools through Hibernate, so the database can be operated by the form of object, which will be used to develop the persistent objects mapped by the underlying data structure, and provide the service, such as querying, searching, and generating reports for the advanced data. [2]
+
+References
+
+[1] 	K. a. Sani, “Hibernate ORM query simplification using hibenate criteria extension (HCE),” Hibernate ORM, vol. I, no. 12, p. 50, 2016. 
+[2] 	M. Xue and C. Zhu, “Design and Implementation of the Hibernate Persistance Layer Data Report System Based on J2EE,” in 2009 Pacific-Asia Conference on Circuits, Communications and Systems, 2009. 
+
+
+Reflection
+From my research I have found that IEEE Xplore database is better suited for the topic of my interest i...e, Hibernate ORM. Not only this topic but also for other topics I feel its best suited because the search results are relevant and easy to find the topic which we want to do research on. 
+Though, the search results are less when compared to google scholar but they are very precise. I have used the keyword Hibernate and ORM, I have chosen these specific keywords because they are more relevant for searching process. I dint use any wildcards, but I have used quotations.
+I learnt that how databases and search engines like Web of Science, IEEE Xplore, UDiscover etc. are a useful tool for a person who does research or writes a paper and also helps for the person to keep track of the articles. I also learnt that we can create a suitable search statement using relevant keywords.
+The skills which I feel to improve is when I write an article or research paper I fail to summarize the main idea at the end which is a minor drawback, I feel I should learn this so that it will be useful for my future research papers.
+From the class of Mr. David Luftig I have learned about various search engines and database and the use of wildcards which makes our work more easy which I will be using for my research paper.  
+
+	
