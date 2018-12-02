@@ -1,2 +1,3 @@
 # My_Reflections
-Advanced Programming and Data Structures
+These are my Reflections for Professional Development and Academic Skills
+
